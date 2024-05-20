@@ -1,5 +1,5 @@
 # Evaluacion Intermedia Modulo 2
-**Tania Graff**| Promo A Part Time
+**Tania Graff** | Promo A Part Time
 
 Previsión metereológica para rutas de montaña - Sierra de Gredos
 
