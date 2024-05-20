@@ -1,4 +1,6 @@
-# Evaluacion_Intermedia
+# Evaluacion Intermedia Modulo 2
+**Tania Graff**| Promo A Part Time
+
 Previsión metereológica para rutas de montaña - Sierra de Gredos
 
 **Web scraping** 
@@ -8,6 +10,6 @@ Previsión metereológica para rutas de montaña - Sierra de Gredos
 **Creación de tablas en SQL** 
 Creación de dos tablas para almacenar los datos extraídos con Beautiful Soup y API's.
 
-*Evaluación intermedia realizada por Tania Graff.* **Promo A Part-Time**
+*Evaluación intermedia realizada por 
 
 ![imagen_portada_modulo](Portada.png)
